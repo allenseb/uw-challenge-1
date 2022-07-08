@@ -1,2 +1,1 @@
-# uw-challenge-1
-challenge 1 uw
+# Code Refactor Starter Code
