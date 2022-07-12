@@ -4,3 +4,4 @@ The goal of this project was to take exisitng code and refactor it to fit the ac
 
 Link to URL:
 (https://allenseb.github.io/uw-challenge-1/)
+![Screenshot 2022-07-11 214031](https://user-images.githubusercontent.com/108300721/178410077-3402e8ed-5a18-42fa-9857-844a06655355.png)
