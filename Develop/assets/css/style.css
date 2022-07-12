@@ -35,6 +35,8 @@ header nav {
     font-size: 20px;
 }
 
+/*grouped individual nav links instead of styling each*/
+
 header nav ul {
     list-style-type: none;
 }
